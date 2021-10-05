@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/rent-car-app/static/css/main.975b2f63.chunk.css",
+    "main.js": "/rent-car-app/static/js/main.40846a18.chunk.js",
+    "main.js.map": "/rent-car-app/static/js/main.40846a18.chunk.js.map",
+    "runtime-main.js": "/rent-car-app/static/js/runtime-main.d3837cb4.js",
+    "runtime-main.js.map": "/rent-car-app/static/js/runtime-main.d3837cb4.js.map",
+    "static/css/2.8a75c635.chunk.css": "/rent-car-app/static/css/2.8a75c635.chunk.css",
+    "static/js/2.b0330aab.chunk.js": "/rent-car-app/static/js/2.b0330aab.chunk.js",
+    "static/js/2.b0330aab.chunk.js.map": "/rent-car-app/static/js/2.b0330aab.chunk.js.map",
+    "index.html": "/rent-car-app/index.html",
+    "static/css/2.8a75c635.chunk.css.map": "/rent-car-app/static/css/2.8a75c635.chunk.css.map",
+    "static/css/main.975b2f63.chunk.css.map": "/rent-car-app/static/css/main.975b2f63.chunk.css.map",
+    "static/js/2.b0330aab.chunk.js.LICENSE.txt": "/rent-car-app/static/js/2.b0330aab.chunk.js.LICENSE.txt",
+    "static/media/blob.f2195ec6.svg": "/rent-car-app/static/media/blob.f2195ec6.svg",
+    "static/media/jeep.18461d13.png": "/rent-car-app/static/media/jeep.18461d13.png",
+    "static/media/mclaren-orange-big.46e3c615.png": "/rent-car-app/static/media/mclaren-orange-big.46e3c615.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d3837cb4.js",
+    "static/css/2.8a75c635.chunk.css",
+    "static/js/2.b0330aab.chunk.js",
+    "static/css/main.975b2f63.chunk.css",
+    "static/js/main.40846a18.chunk.js"
+  ]
+}
